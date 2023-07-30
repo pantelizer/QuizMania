@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "QUIZ.core": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}

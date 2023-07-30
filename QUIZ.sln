@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QUIZ.core", "QUIZ.core\QUIZ.core.csproj", "{A79C1BD8-1C88-49E6-BF17-10F21417E09C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QUIZ.console", "QUIZ.console\QUIZ.console.csproj", "{8DD63DCB-CAEC-483A-B3A1-A13A0E7AA0BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ANDROID.QUIZ", "ANDROID.QUIZ\ANDROID.QUIZ\ANDROID.QUIZ.csproj", "{4156A7CC-9CE9-4EF9-900A-46F9F91C1306}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A79C1BD8-1C88-49E6-BF17-10F21417E09C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A79C1BD8-1C88-49E6-BF17-10F21417E09C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A79C1BD8-1C88-49E6-BF17-10F21417E09C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A79C1BD8-1C88-49E6-BF17-10F21417E09C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DD63DCB-CAEC-483A-B3A1-A13A0E7AA0BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DD63DCB-CAEC-483A-B3A1-A13A0E7AA0BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DD63DCB-CAEC-483A-B3A1-A13A0E7AA0BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DD63DCB-CAEC-483A-B3A1-A13A0E7AA0BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4156A7CC-9CE9-4EF9-900A-46F9F91C1306}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4156A7CC-9CE9-4EF9-900A-46F9F91C1306}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4156A7CC-9CE9-4EF9-900A-46F9F91C1306}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{4156A7CC-9CE9-4EF9-900A-46F9F91C1306}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4156A7CC-9CE9-4EF9-900A-46F9F91C1306}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4156A7CC-9CE9-4EF9-900A-46F9F91C1306}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E263DFB-FFA6-4512-AF0F-2916E3F0C31A}
+	EndGlobalSection
+EndGlobal

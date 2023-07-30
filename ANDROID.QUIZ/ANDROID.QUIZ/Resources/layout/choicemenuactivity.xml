@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#06C2F5">
+    
+    <com.google.android.material.button.MaterialButton
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:height="130dp"
+        android:layout_marginTop="14dp"
+        android:backgroundTint="@android:color/holo_green_light"
+        android:text="NATURE"
+        android:textSize="40sp"
+        android:textColor="@android:color/white"
+        android:layout_marginRight="5dp"
+        android:layout_marginLeft="5dp"
+        android:id="@+id/nature"
+        
+        
+        />
+    <com.google.android.material.button.MaterialButton
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        
+        android:height="130dp"
+        android:layout_marginTop="14dp"
+        android:text="TECHNOLOGY"
+        android:textSize="40sp"
+        android:textColor="@android:color/white"
+        android:layout_marginRight="5dp"
+        android:layout_marginLeft="5dp"
+        android:id="@+id/technology"
+        android:backgroundTint="@color/material_blue_grey_800"
+        android:shadowColor="#eb4634"
+        />
+
+   
+
+
+
+</LinearLayout>
